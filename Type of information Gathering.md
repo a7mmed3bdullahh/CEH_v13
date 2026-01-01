@@ -88,10 +88,8 @@ sudo apt-get install git
 
 استخدامها
 
-```
-nmap -p 80 [example.com](<http://example.com/>)
-```
+`nmap -p 80 [example.com](<http://example.com/>)`
 
-**`كدا الحمد لله تم انتهاء سكشن ال Information Gathering علي خير `**
+كدا الحمد لله تم انتهاء سكشن ال Information Gathering علي خير
 
 
